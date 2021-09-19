@@ -1,24 +1,24 @@
 body {
- background-image: url("book2.jpg");
- background-repeat:repeat-x;
- background-position: center;
+  background-image: url("Images/book2.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
 }
-.card-header{
-  background-image: url("images.jpeg");
+.card-header {
+  background-image: url("Images/images.jpeg");
   background-repeat: Cover;
   opacity: 0.9;
- }
- h3 {
-   color: burlywood;
-   background-color: white;
-   text-align: center;
-   padding: 1rem;
-   opacity: 0.85;
- }
- .card-body{
-   text-align: center;
- }
+}
+h3 {
+  color: burlywood;
+  background-color: white;
+  text-align: center;
+  padding: 1rem;
+  opacity: 0.85;
+}
+.card-body {
+  text-align: center;
+}
 
- .card-body th{
-   width: 33%;
- }
+.card-body th {
+  width: 33%;
+}
